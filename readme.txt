@@ -1,0 +1,2 @@
+open powershell or terminal in this folder and type two commands: "npm i" and "npm start" to run your project.
+If this doesn't work, you may need to install npm: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
